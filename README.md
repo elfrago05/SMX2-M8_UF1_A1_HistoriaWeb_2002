@@ -45,4 +45,4 @@ Fecha de creación 3 de Marzo de 2006
 
 jxnjsaj
 
-![imagen](https://github.com/elfrago05/SMX2-M8_UF1_A1_HistoriaWeb_2002/blob/main/aws-logo.png "imagen Amazon Web Services")
+![imagen](https://github.com/elfrago05/SMX2-M8_UF1_A1_HistoriaWeb_2002/blob/main/Amazon-Web-Services-Leistungen.webp"imagen Amazon Web Services")
