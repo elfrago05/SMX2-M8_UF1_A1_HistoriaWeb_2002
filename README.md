@@ -47,4 +47,4 @@ jxnjsaj
 
 ![imagen](https://github.com/elfrago05/SMX2-M8_UF1_A1_HistoriaWeb_2002/blob/main/Amazon-Web-Services-Leistungen.webp "imagen Amazon Web Services")
 
-[Wikipedia](https://aws.amazon.com/es/ "Titulo Opcional")
+[AWS](https://aws.amazon.com/es/ "Titulo Opcional")
