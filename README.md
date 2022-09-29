@@ -47,6 +47,7 @@ Amazon Web Services (AWS) es una plataforma que se encunetra en la nube y segun 
 
 AWS está situado en 18 Regiones geográficas: región y número de zonas de disponibilidad
 
+![imagen](https://github.com/elfrago05/SMX2-M8_UF1_A1_HistoriaWeb_2002/blob/main/Amazon-Web-Services-Leistungen.webp "imagen Amazon Web Services")
 
 | Región | N.Zonas | 
 |--------------|:-------------------------------:|
@@ -59,7 +60,5 @@ AWS está situado en 18 Regiones geográficas: región y número de zonas de dis
 | América del Sur | São Paulo, Brasil (3), prox. Lima, Perú (1) | 
 | América Central | San José, Costa Rica (1) | 
 | AWS GovCloud | US-West) (2). | 
-
-![imagen](https://github.com/elfrago05/SMX2-M8_UF1_A1_HistoriaWeb_2002/blob/main/Amazon-Web-Services-Leistungen.webp "imagen Amazon Web Services")
 
 [AWS](https://aws.amazon.com/es/ "Titulo Opcional")
