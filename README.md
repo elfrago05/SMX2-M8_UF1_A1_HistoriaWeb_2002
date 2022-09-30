@@ -2,9 +2,11 @@
 
 Fecha de creación 15 de Enero de 2001
 
-Creador: Jimmy Wales, Larry Sanger
+Creador: Larry Sanger y Jimmy Wales
 
 ![imagen](https://github.com/elfrago05/SMX2-M8_UF1_A1_HistoriaWeb_2002/blob/main/L_Sanger.jpg "imagen wikipedia")
+![imagen]( "imagen wikipedia")
+
 
 ## Definición
 
